@@ -2,19 +2,24 @@
 
 ### ================
 ### Daemon
+```bash
 MongoD
+```
 
 ### ================
 ### Versao
+```bash
 mongod --version
+```
 
 ### ================
 ### Conectando no MongoD ( Console )
+```bash
 mongo
+```
 
 ### ================
 ### Criando novo Banco
-
 ```bash
 > use dbcurso;
 ```
