@@ -140,7 +140,12 @@ db.getCollection("postagens").find({})
 | --- | --- |
 | Banco de Dados | Banco de Dados |
 | Tabela Visão | Coleção  |
-| Tabela Visão | Coleção  |
+| Linha | Documentos  |
+| Coluna (Esquema Rígido) | Campo (Esquema Flexível)  |
+| Índice | Índice |
+| Junção | Documento Embutido  |
+| Chave Estrangeira | Referência |
+| Partição | Sharding |
 
 
 
