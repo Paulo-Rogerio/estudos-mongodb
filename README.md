@@ -7,6 +7,12 @@ MongoD
 ```
 
 ### ================
+### Restart Service
+```bash
+db.shutdownServer()
+```
+
+### ================
 ### Versao
 ```bash
 mongod --version
